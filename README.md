@@ -1,6 +1,11 @@
-<center>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png' alt='mern stack image' width='500'/>
-</center>
+<p align="center">
+  <img 
+    src="https://www.mindinventory.com/blog/wp-content/uploads/2023/02/MEAN-stack.webp" 
+    width="500"
+    style="margin-bottom: 20px;"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hameed Developer</h1>
 <h3 align="center">Frontend Developer from Pakistan | 1 Year Experience in HTML, CSS, JS & React</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
