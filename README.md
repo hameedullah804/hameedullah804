@@ -1,7 +1,3 @@
-<a href="https://rishavchanda.io" style="display: block; width: fit-content; margin: 0 auto;">
-  <img src="https://wallpaperbat.com/img/1170957-what-is-mern-stack-and-how-does-it-work.png" alt="MasterHead" width="600"/>
-</a>
-
 <h1 align="center">Hi 👋, I'm Hameed Developer</h1>
 <h3 align="center">Frontend Developer from Pakistan | 1 Year Experience in HTML, CSS, JS & React</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
